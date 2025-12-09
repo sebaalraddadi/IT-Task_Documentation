@@ -14,6 +14,26 @@ This project is an internal web system designed to streamline the documentation 
 
 ---
 
+## Project Screenshots
+**1. Login Interface / واجهة تسجيل الدخول**
+![Login Page](https://raw.githubusercontent.com/sebaalraddadi/projects/main/Log_in.png)
+
+**2. Send Task Interface / واجهة إرسال المهام**
+![Send Task](https://raw.githubusercontent.com/sebaalraddadi/projects/main/send_task.png)
+
+**3. Manager Dashboard / لوحة تحكم المدير**
+![Dashboard](https://raw.githubusercontent.com/sebaalraddadi/projects/main/Manger_page.png)
+
+**4. Completed Tasks View / عرض المهام المنجزة**
+![Completed Tasks](https://raw.githubusercontent.com/sebaalraddadi/projects/main/completed_tasks.png)
+
+**4. Export to Excel Feature / ميزة التصدير إلى إكسل**
+![Export to Excel](https://raw.githubusercontent.com/sebaalraddadi/projects/main/to_excel.png)
+
+*(Note: These screenshots represent the working prototype presented during the training).*
+
+---
+
 ## Key Features
 Based on the project scope:
 * **User & Manager Interfaces:** Dedicated dashboards for employees and admins.
@@ -38,19 +58,6 @@ This project was built using the following technologies:
 
 ---
 
-## Project Screenshots
-**1. Login Interface / واجهة تسجيل الدخول**
-![Login Page]()
-
-**2. Task Entry Form / نموذج إدخال المهام**
-![Task Form](ضع_رابط_الصورة_هنا)
-
-**3. Manager Dashboard / لوحة تحكم المدير**
-![Dashboard](ضع_رابط_الصورة_هنا)
-
-*(Note: These screenshots represent the working prototype presented during the training).*
-
----
 ## Development Team
 Developed by Taibah University Students
 
