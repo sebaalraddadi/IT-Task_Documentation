@@ -31,7 +31,7 @@ This project is an internal web system designed to streamline the documentation 
 **4. Export to Excel Feature / ميزة التصدير إلى إكسل**
 ![Export to Excel](https://raw.githubusercontent.com/sebaalraddadi/projects/main/to_excel.png)
 
-*(Note: These screenshots represent the working prototype presented during the training).*
+**(Note: These screenshots represent the working prototype presented during the training).**
 ---
 ## ▶️ Project Demo / عرض عملي للمشروع
 
